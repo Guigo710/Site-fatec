@@ -26,9 +26,13 @@ Site-fatec/
 └── style 1.css
 
  sobre.html → página inicial / main homepage
+ 
  localizacao.html → página de local / localization homepage
+ 
  contato.html →  página de contato / contact homepage
+ 
  index.html →  página do Dev / Dev info homepage
+ 
  
 - Css_fatec/ → pasta as imagens do site / folder of images from the website
 
